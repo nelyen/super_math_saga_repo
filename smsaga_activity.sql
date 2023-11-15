@@ -1,4 +1,5 @@
 #standardSQL
+  
 with
 
 control as (-- Control Group Sample: 385
