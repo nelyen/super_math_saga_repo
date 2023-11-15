@@ -1,4 +1,4 @@
-# super_math_saga_repo
+# Super Math Saga Repo
 
 This repo is for the queries associated with the A/B Test for Super Math Saga.
 
