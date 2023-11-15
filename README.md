@@ -2,8 +2,9 @@
 
 This repo is for the queries associated with the A/B Test for Super Math Saga.
 
-We set the assignment process to randomly distribute players among the groups: 80% to group A (control) and 20% to group B (test). The experiment
-ran from 2017-05-04 to 2017-05-22.
+We set the assignment process to randomly distribute players among the groups: 80 to group A (control) and 20% to group B (test).
+The experiment ran from '2017-05-04' to '2017-05-22'.
+
 --
 
 Folders:
