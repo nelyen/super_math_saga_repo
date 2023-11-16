@@ -10,10 +10,13 @@ The experiment ran from '2017-05-04' to '2017-05-22'.
   - Sample: This is how we created our sample groups, the playerid's used for analysis can be found in the smsaga_abtest_activity CTE's.
 
 ## **Resources:**
-Tools used for this analysis were Big Query, Excel, Google Sheets, Google Docs, Tableau, and Git.
+Tools used for this analysis were Big Query, Excel, Google Docs, Google Sheets, Google Slides, Tableau, and Github.
 
 **Google Docs:**
-- [Math Saga - A/B Test Write Up](https://docs.google.com/document/d/1NCpddC3BQRpMEd7HtXnhh2D7Q6rqrwy2_IAf6ZhXFow/edit#heading=h.5gql8hcleq1m)
+- [Math Saga - A/B Test Write Up](https://docs.google.com/document/d/1NCpddC3BQRpMEd7HtXnhh2D7Q6rqrwy2_IAf6ZhXFow/edit#heading=h.5gql8hcleq1m****)
+
+**Google Slides:**
+- [Super Math Saga - A/B Test Analysis](https://docs.google.com/presentation/d/1lV8hs6u3Q67Dl5IZFpz6Db1egdeoIRWtyHEj85aFrGY/edit#slide=id.p)
 
 **Google Sheets:**
 - [Super Math Saga - AB Test: Exploratory Data](https://docs.google.com/spreadsheets/d/1RYy7buW54hl9Uc0lmRG3eHKugGHICoetoR0Tba7d0JE/edit#gid=1041022188)
