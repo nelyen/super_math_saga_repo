@@ -7,7 +7,7 @@ The experiment ran from '2017-05-04' to '2017-05-22'.
 
 ## **Folders:**
   - Explore: These are queries that were helpful in exploring the data and for sanity checks.
-  - Sample: This is how we created our sample groups, the playerid's can be found in the smsaga_activity CTE's.
+  - Sample: This is how we created our sample groups, the playerid's used for analysis can be found in the smsaga_abtest_activity CTE's.
 
 ## **Resources:**
 Tools used for this analysis were Big Query, Excel, Google Sheets, Google Docs, Tableau, and Git.
